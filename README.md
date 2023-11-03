@@ -1,3 +1,2 @@
 # Projects
-Learning Djnago from Official documentation 
-Making Polls webapp
+This repo contains side-projects on Cybersecurity, Backend, API, etc.
