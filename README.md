@@ -1,2 +1,1 @@
-# Projects
-This repo contains side-projects on Cybersecurity, Backend, API, etc.
+This repository was used for learning Django
