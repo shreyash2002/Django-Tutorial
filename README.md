@@ -1,3 +1,1 @@
-# Projects
-Learning Djnago from Official documentation 
-Making Polls webapp
+This repository was used for learning Django
